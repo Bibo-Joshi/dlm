@@ -209,8 +209,9 @@
     });
 
     document.getElementById("gigsContainer").addEventListener("click", function (e) {
-        if (e.target && e.target.classList.contains("removeAuftritt")) {
-            e.target.closest(".card").remove();
+        const removeBtn = e.target.closest(".removeAuftritt");
+        if (removeBtn) {
+            removeBtn.closest(".card").remove();
         }
         // Up/Down Buttons
         if (e.target && (e.target.classList.contains("move-up") || e.target.closest(".move-up"))) {
