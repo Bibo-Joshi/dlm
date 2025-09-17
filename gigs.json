@@ -1,0 +1,33 @@
+[
+  {
+    "date": "2024-07-01",
+    "location": "Berlin",
+    "time": "19:00",
+    "desc": "Sommerfest"
+  },
+  {
+    "date": "2024-07-15",
+    "location": "Hamburg",
+    "time": "20:30",
+    "desc": "Open Air Konzert"
+  },
+  {
+    "date": "2024-08-05",
+    "location": "München",
+    "time": "18:00",
+    "desc": "Stadtfest"
+  },
+  {
+    "date": "2024-08-20",
+    "location": "Köln",
+    "time": "21:00",
+    "desc": "Nacht der Musik"
+  },
+  {
+    "date": "2024-09-10",
+    "location": "Frankfurt",
+    "time": "17:30",
+    "desc": "Herbstmarkt"
+  }
+]
+
